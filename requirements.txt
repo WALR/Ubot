@@ -1,0 +1,7 @@
+cssselect==0.9.2
+lxml==3.6.0
+pkg-resources==0.0.0
+pyquery==1.2.13
+pyTelegramBotAPI==2.1.5
+requests==2.10.0
+six==1.10.0
